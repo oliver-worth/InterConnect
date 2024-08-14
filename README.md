@@ -1,5 +1,5 @@
 # Telecom Customer Churn Prediction
-
+![Telecom Logo](telecom2.png)
 ## Project Overview
 This project involves developing a machine learning model to predict customer churn for a telecom company. The goal is to identify customers who are likely to leave the service, allowing the company to take proactive measures to retain them. The project follows a systematic approach of data preprocessing, feature engineering, model selection, and evaluation to achieve a robust predictive model.
 
@@ -49,6 +49,7 @@ The telecom industry is highly competitive, and customer retention is crucial fo
 - **Steps**:
   - **Final Model**: The XGBoost Classifier was selected as the final model due to its superior performance with an AUC-ROC score of 0.88 and an accuracy score of 0.92.
 
+![Customer Churn](customerchurn.png)
 ## Conclusion
 The project successfully developed a machine learning model to predict customer churn with high accuracy. By following a structured approach to data preprocessing, feature engineering, and model selection, the project achieved its objective. The final XGBoost model provides a reliable solution for predicting customer churn and can be confidently used in practical applications.
 
